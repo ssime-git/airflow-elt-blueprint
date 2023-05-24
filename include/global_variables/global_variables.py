@@ -14,7 +14,7 @@ import json
 # -------------------- #
 
 MY_NAME = "Friend"
-MY_CITY = "Portland"
+MY_CITY = "Paris"
 
 # ----------------------- #
 # Configuration variables #
